@@ -1,0 +1,42 @@
+#name{
+    height:100%;
+    margin-left:16.2%;
+    margin-bottom: 0;
+    padding:15px;
+    
+}
+ul{
+    margin-right:15%;
+}
+body{
+    background:grey;
+}
+.navbar{
+    padding:0;
+    height:75px;
+}
+img{
+    height:200px;
+    width:200px;
+    float:left;
+    margin:10px;
+}
+ #text{
+    float:left;
+}
+.main{
+    margin:20px;
+    padding:20px;
+}
+.break{
+    height:10px;
+}
+hr{
+    height:3px;
+}
+#title{
+    margin:10px;
+}
+img{
+    background:orange;
+}
